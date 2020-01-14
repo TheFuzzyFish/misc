@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 // Asks a user to guess a randomly generated number between 1 and 10
-int check(double guess) {
+int check(int guess) {
 	int number;
 
 	/* Generate random number */
