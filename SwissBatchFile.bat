@@ -284,7 +284,7 @@ title Debugger
 color 0a
 echo.
 echo  If you do not exactly know what this does, I suggest you leave it alone.
-echo  This protocal is meant to fix any issues you may be having with your Folder Locker protocal.
+echo  This protocol is meant to fix any issues you may be having with your Folder Locker protocol.
 echo.
 echo  Do you want to continue? (Y/N)
 set/p "debuggerchoice= >"
