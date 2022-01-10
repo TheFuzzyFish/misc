@@ -16,6 +16,9 @@
  * follow that same algorithm, and if you both come to the same character,
  * you can be reasonably confident that you both have the same randomized
  * tables.
+ *
+ * For more context, see
+ * https://en.wikipedia.org/wiki/Challenge%E2%80%93response_authentication
 */
 
 // Globals
